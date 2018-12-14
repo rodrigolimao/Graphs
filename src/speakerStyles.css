@@ -1,0 +1,22 @@
+.combo-box-popup  {
+    -fx-font-size : 15pt;
+    -fx-font-color: white;
+    -fx-background-color: -fx-box-border, -fx-control-inner-background;
+    -fx-background-insets: 0, 1;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 8, 0.0 , 0 , 0 );
+    -fx-background-color: white;
+    -fx-text-fill: -fx-text-inner-color;
+    -fx-background-radius: 6.4, 4, 5, 3;
+}
+
+.default-color0.chart-bar {
+    -fx-bar-fill: blue;
+}
+
+.ImageView{
+    border-radius: 10px;
+}
+
+#anchor {
+    fx-background-color: blue;
+}
